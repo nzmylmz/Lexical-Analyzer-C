@@ -1,0 +1,20 @@
+int size.
+int sum.
+{this block is very complex structure 
+so turn off!}
+move 5 to size.
+loop[ size] times
+[out size, newline.
+add size to sum.
+]
+out newline, "Sum:", sum.
+-5874156655,86554545587
+ip.
+{this is a comment}{ and
+this is a comment too}
+int myVar.
+{move 25 to myVar.}
+add 2 to sum . 
+sub 2 to sum
+out "The result is:",sum.
+loop 10 times out "*". {writes 10 stars on the screen}
